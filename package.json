@@ -1,0 +1,23 @@
+{
+  "name": "Admin-Dasboard",
+  "version": "1.0.0",
+  "description": "Admin Dashboard for CSS Grid Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffiqzin/Admin-Dasboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffiqzin/Admin-Dasboard/issues"
+  },
+  "homepage": "https://github.com/raffiqzin/Admin-Dasboard#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
